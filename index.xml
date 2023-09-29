@@ -1,72 +1,153 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tella</title>
-    <link>https://octooai.github.io/webex1/</link>
-    <description>Recent content on Tella</description>
+    <title>octooAI</title>
+    <link>https://octooai.github.io/</link>
+    <description>Recent content on octooAI</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 23 Jun 2020 12:33:45 +1000</lastBuildDate><atom:link href="https://octooai.github.io/webex1/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 11 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://octooai.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Example Project</title>
-      <link>https://octooai.github.io/webex1/products/example/</link>
+      <title>Realtime Semantic Segmentation</title>
+      <link>https://octooai.github.io/experience/semantic_seg/</link>
       <pubDate>Tue, 23 Jun 2020 12:33:45 +1000</pubDate>
       
-      <guid>https://octooai.github.io/webex1/products/example/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec accumsan dapibus purus, vel maximus erat facilisis vel. Suspendisse eu ipsum consequat, sodales nulla vel, faucibus velit. Fusce imperdiet lacus nec cursus auctor. In vulputate arcu et nulla placerat, nec pulvinar quam rhoncus. Praesent vel placerat nunc. Mauris elit felis, pulvinar egestas risus ut, fermentum ullamcorper orci. Integer tempor, neque sed fermentum eleifend, ligula est tincidunt purus, sodales semper elit enim ut mi.</description>
+      <guid>https://octooai.github.io/experience/semantic_seg/</guid>
+      <description>We developed a real-time semantic segmentation models for identifying humans in video streams across web, Windows, and macOS. Designed a comprehensive library, abstracting complex tasks such as pre and post-processing and multithreading, allowing seamless client integration. This impactful project significantly enhanced the efficiency and ease of deploying advanced segmentation capabilities in diverse applications, without clients navigating the technical depths.</description>
     </item>
     
     <item>
-      <title>Markdown Syntax Guide</title>
-      <link>https://octooai.github.io/webex1/blog/markdown-syntax/</link>
+      <title>Image generation with Large Langugage Models</title>
+      <link>https://octooai.github.io/experience/gen_ai/</link>
+      <pubDate>Tue, 23 Jun 2020 12:33:45 +1000</pubDate>
+      
+      <guid>https://octooai.github.io/experience/gen_ai/</guid>
+      <description>Developed a generative AI model capable of producing data from textual input, incorporating segmentation masks to eliminate the need for subsequent annotation. This innovation not only curtails costs but also ensures the generation of richer and more diverse training data for enhanced model performance.</description>
+    </item>
+    
+    <item>
+      <title>Semantic segmentation for autonomous vehicles</title>
+      <link>https://octooai.github.io/experience/robo_cart/</link>
+      <pubDate>Tue, 23 Jun 2020 12:33:45 +1000</pubDate>
+      
+      <guid>https://octooai.github.io/experience/robo_cart/</guid>
+      <description>We worked on an autonomous delivery robot project, focusing on real-time semantic segmentation for autonomous driving on edge devices. Our model adeptly handled a range of environmental challenges, including varying weather conditions and day-to-night transitions, ensuring robust and reliable robot navigation.</description>
+    </item>
+    
+    <item>
+      <title>Plugin Networks (Research)</title>
+      <link>https://octooai.github.io/experience/plugin_net/</link>
+      <pubDate>Tue, 23 Jun 2020 12:33:45 +1000</pubDate>
+      
+      <guid>https://octooai.github.io/experience/plugin_net/</guid>
+      <description>We introduced the Plugin Networks, an innovation enhancing model flexibility. These auxiliary networks, attached to original models, enable the alteration of model behavior without the necessity of retraining the foundational structure. While our focus was predominantly on discriminative models, the versatile application also extends to generative models, showcasing its broad utility. We used a simialr idea in our Image Generation project.</description>
+    </item>
+    
+    <item>
+      <title>Food recognition for intelligent oven</title>
+      <link>https://octooai.github.io/experience/oven/</link>
+      <pubDate>Tue, 23 Jun 2020 12:33:45 +1000</pubDate>
+      
+      <guid>https://octooai.github.io/experience/oven/</guid>
+      <description>We developed a food recognition model for intelligent ovens, I successfully designed a system capable of distinguishing among 100+ food classes. Prioritizing both compute and memory efficiency, the model was optimized for local deployment on edge devices, ensuring swift and accurate in-device food identification.</description>
+    </item>
+    
+    <item>
+      <title>Patient monitoring -- action recognition</title>
+      <link>https://octooai.github.io/experience/smarthome/</link>
+      <pubDate>Tue, 23 Jun 2020 12:33:45 +1000</pubDate>
+      
+      <guid>https://octooai.github.io/experience/smarthome/</guid>
+      <description>An action recognition system tailored for monitoring senior individuals in nursing homes. The model was adept at observing the well-being of residents, especially those with dementia and Alzheimer&amp;rsquo;s disease, by proficiently detecting routine actions, such as breakfast preparation, ensuring consistent care and early anomaly detection</description>
+    </item>
+    
+    <item>
+      <title>People ReIdentification in crowded scenes</title>
+      <link>https://octooai.github.io/experience/queue/</link>
+      <pubDate>Tue, 23 Jun 2020 12:33:45 +1000</pubDate>
+      
+      <guid>https://octooai.github.io/experience/queue/</guid>
+      <description>Contributed to a people re-identification project designed for theme parks, aiming to gauge the rate of queue progression. In the face of challenges like overlapping and occlusion in crowded scenarios, the system effectively distinguished individual identities. This methodology was subsequently patented.</description>
+    </item>
+    
+    <item>
+      <title>Pose estimation and segmentation for neuro-therapy</title>
+      <link>https://octooai.github.io/experience/therapy/</link>
+      <pubDate>Tue, 23 Jun 2020 12:33:45 +1000</pubDate>
+      
+      <guid>https://octooai.github.io/experience/therapy/</guid>
+      <description>This project was aimed at enhancing recovery processes in neurotherapy. We developed a model for pose detection and segmentation, which played a crucial role in monitoring exercises and tracking patients&amp;rsquo; progress, ensuring more personalized and effective recovery pathways.</description>
+    </item>
+    
+    <item>
+      <title>Parcel recognition system in warehouses</title>
+      <link>https://octooai.github.io/experience/parcel/</link>
+      <pubDate>Tue, 23 Jun 2020 12:33:45 +1000</pubDate>
+      
+      <guid>https://octooai.github.io/experience/parcel/</guid>
+      <description>A parcel detection and tracking system, tailored for efficient parcel management in expansive warehouses. The project entailed training robust models and crafting an efficient library to ensure real-time functionality within high-resolution camera networks</description>
+    </item>
+    
+    <item>
+      <title>Teleoperation for autonomus vehicles</title>
+      <link>https://octooai.github.io/experience/tele_op/</link>
+      <pubDate>Tue, 23 Jun 2020 12:33:45 +1000</pubDate>
+      
+      <guid>https://octooai.github.io/experience/tele_op/</guid>
+      <description>The development of a teleoperation library for autonomous vehicles, ensuring efficient data streaming and enhanced remote control. This advancement played a role the safety aspects of autonomous vehicle operation.</description>
+    </item>
+    
+    <item>
+      <title>Segmentation from fMRI scans.</title>
+      <link>https://octooai.github.io/experience/med_segmentation/</link>
+      <pubDate>Tue, 23 Jun 2020 12:33:45 +1000</pubDate>
+      
+      <guid>https://octooai.github.io/experience/med_segmentation/</guid>
+      <description>The project focused on developing models for organ segmentation from fMRI and CT scans. The work required building models capable of efficiently operating on high-volume 3D data, ensuring precise and reliable segmentation outcomes.</description>
+    </item>
+    
+    <item>
+      <title>Spectrometre calibration -- European Space Agency Project</title>
+      <link>https://octooai.github.io/experience/esa/</link>
+      <pubDate>Tue, 23 Jun 2020 12:33:45 +1000</pubDate>
+      
+      <guid>https://octooai.github.io/experience/esa/</guid>
+      <description>We paricipated in the calibration of the SPIRE Fourier-Transform Spectrometer on the HERSCHEL space observatory, focusing on ensuring its accurate and reliable operation for space observations.</description>
+    </item>
+    
+    <item>
+      <title>Michal Koperski</title>
+      <link>https://octooai.github.io/team/michal/</link>
+      <pubDate>Sat, 11 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://octooai.github.io/team/michal/</guid>
+      <description>PhD in Machine Learning and Computer Vision from INRIA. The PhD was funded by Toyota Robotics. Intern at Disney Resarch lab at CMU. Over 13 years of experience in developing complex AI algorithms. Michal specializes in various computer vision solutions including recognition, detection, and segmentation. As well as classical ML algorithms.</description>
+    </item>
+    
+    <item>
+      <title>Tomasz Konopczyński</title>
+      <link>https://octooai.github.io/team/tomek_k/</link>
+      <pubDate>Fri, 11 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://octooai.github.io/team/tomek_k/</guid>
+      <description>PhD in AI from Heidelberg University. Over 10 years of commercial experience in developing AI solutions. Tomasz has vast experience in medical images recognition, detection, and segmentation.</description>
+    </item>
+    
+    <item>
+      <title>Tomasz Mikołajczyk</title>
+      <link>https://octooai.github.io/team/tomek_m/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://octooai.github.io/webex1/blog/markdown-syntax/</guid>
-      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Rich Content</title>
-      <link>https://octooai.github.io/webex1/blog/rich-content/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://octooai.github.io/webex1/blog/rich-content/</guid>
-      <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Placeholder Text</title>
-      <link>https://octooai.github.io/webex1/blog/placeholder-text/</link>
-      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://octooai.github.io/webex1/blog/placeholder-text/</guid>
-      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Math Typesetting</title>
-      <link>https://octooai.github.io/webex1/blog/math-typesetting/</link>
-      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://octooai.github.io/webex1/blog/math-typesetting/</guid>
-      <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Emoji Support</title>
-      <link>https://octooai.github.io/webex1/blog/emoji-support/</link>
-      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://octooai.github.io/webex1/blog/emoji-support/</guid>
-      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
+      <guid>https://octooai.github.io/team/tomek_m/</guid>
+      <description>Over 19 years of experience in software development. Tomek was involved in development of many enterprise class systems. He is an expert in developing solutions for real-time AI products. Including edge, native and web platforms.</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>https://octooai.github.io/webex1/about/</link>
+      <link>https://octooai.github.io/about/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://octooai.github.io/webex1/about/</guid>
+      <guid>https://octooai.github.io/about/</guid>
       <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
 Hugo makes use of a variety of open source projects including:
 https://github.com/yuin/goldmark https://github.</description>
@@ -74,11 +155,11 @@ https://github.com/yuin/goldmark https://github.</description>
     
     <item>
       <title>Contact</title>
-      <link>https://octooai.github.io/webex1/contact/</link>
+      <link>https://octooai.github.io/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://octooai.github.io/webex1/contact/</guid>
-      <description>To contact us, please fill out the form below.</description>
+      <guid>https://octooai.github.io/contact/</guid>
+      <description>To contact us, please send an e-mail to contact@octoo.ai</description>
     </item>
     
   </channel>
